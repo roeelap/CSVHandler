@@ -1,2 +1,2 @@
-# CSVHandler - a simple Goland package to handle very large CSV files
+# CSVHandler - a simple Golang package to handle very large CSV files
 
